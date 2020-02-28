@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+p {
+  text-align: center;
+}
+/* Style all elements with the class name "text221" */
+.text221 {
+  font-family:arial;
+  color:red;
+  font-size:160%;
+}
